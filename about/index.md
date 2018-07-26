@@ -1,10 +1,10 @@
 ---
 layout: layouts/post.njk
-title: About Me
+title: 关于我
 tags:
   - nav
 navtitle: About
 templateClass: tmpl-post
 ---
 
-I am a person that writes stuff.
+一个程序员.
