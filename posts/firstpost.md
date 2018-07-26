@@ -20,3 +20,5 @@ function myCommand() {
 	counter++;
 }
 ```
+
+![Alt text](/img/vue-logo.png "Optional title")
