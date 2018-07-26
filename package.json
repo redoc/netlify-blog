@@ -3,7 +3,7 @@
   "version": "4.0.2",
   "description": "A starter repository for a blog web site using the Eleventy static site generator.",
   "scripts": {
-    "build": "npx eleventy",
+    "build": "rm -rf _site && npx eleventy",
     "watch": "npx eleventy --watch",
     "debug": "DEBUG=* npx eleventy"
   },
