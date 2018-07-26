@@ -21,4 +21,4 @@ function myCommand() {
 }
 ```
 
-![Alt text](/img/vue-logo.png "Optional title")
+![Alt text](/img/firstpost/vue-logo.png "Optional title")
